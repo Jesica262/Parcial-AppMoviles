@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Parcial</string>
+    <string name="Nombre">Nombre:</string>
+    <string name="Contraseña">Contraseña:</string>
+    <string name="usuario">Se encuentra Registrado</string>
+    <string name="Titulo">INGRESE LOS DATOS</string>
+</resources>
